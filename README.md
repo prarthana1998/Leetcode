@@ -15,6 +15,7 @@
 | [0283-move-zeroes](https://github.com/prarthana1998/Leetcode/tree/master/0283-move-zeroes) |
 | [1014-k-closest-points-to-origin](https://github.com/prarthana1998/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1094-matrix-cells-in-distance-order](https://github.com/prarthana1998/Leetcode/tree/master/1094-matrix-cells-in-distance-order) |
+| [1939-queries-on-number-of-points-inside-a-circle](https://github.com/prarthana1998/Leetcode/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
 ## Hash Table
 |  |
 | ------- |
@@ -33,11 +34,13 @@
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/prarthana1998/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1094-matrix-cells-in-distance-order](https://github.com/prarthana1998/Leetcode/tree/master/1094-matrix-cells-in-distance-order) |
+| [1939-queries-on-number-of-points-inside-a-circle](https://github.com/prarthana1998/Leetcode/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
 ## Geometry
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/prarthana1998/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1094-matrix-cells-in-distance-order](https://github.com/prarthana1998/Leetcode/tree/master/1094-matrix-cells-in-distance-order) |
+| [1939-queries-on-number-of-points-inside-a-circle](https://github.com/prarthana1998/Leetcode/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
 ## Sorting
 |  |
 | ------- |
