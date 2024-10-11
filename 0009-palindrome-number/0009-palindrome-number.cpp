@@ -5,7 +5,7 @@ public:
             return false;
         }
 
-        long long reversed = 0;
+       long long reversed = 0;
         long long temp = x;
 
         while (temp != 0) {
