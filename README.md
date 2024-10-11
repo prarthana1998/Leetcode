@@ -38,6 +38,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/prarthana1998/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/prarthana1998/Leetcode/tree/master/0009-palindrome-number) |
 | [0268-missing-number](https://github.com/prarthana1998/Leetcode/tree/master/0268-missing-number) |
 | [1014-k-closest-points-to-origin](https://github.com/prarthana1998/Leetcode/tree/master/1014-k-closest-points-to-origin) |
