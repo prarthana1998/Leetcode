@@ -1,5 +1,11 @@
 class Solution:
     def isAnagram(self, s: str, t: str) -> bool:
-       s = sorted(s)
-       t = sorted(t)
-       return s==t
+        numsMap = defaultdict(int)
+        for x in s:
+            numsMap[x]+=1
+        for x in t:
+            numsMap[x]-=1
+        for val in numsMap.values():
+            if val!=0:
+                return False
+        return True
