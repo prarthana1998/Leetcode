@@ -13,6 +13,7 @@
 | [0001-two-sum](https://github.com/prarthana1998/Leetcode/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/prarthana1998/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/prarthana1998/Leetcode/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/prarthana1998/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/prarthana1998/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/prarthana1998/Leetcode/tree/master/0283-move-zeroes) |
 | [1014-k-closest-points-to-origin](https://github.com/prarthana1998/Leetcode/tree/master/1014-k-closest-points-to-origin) |
@@ -93,4 +94,8 @@
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/prarthana1998/Leetcode/tree/master/0242-valid-anagram) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/prarthana1998/Leetcode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
