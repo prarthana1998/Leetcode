@@ -16,6 +16,7 @@
 | [0238-product-of-array-except-self](https://github.com/prarthana1998/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/prarthana1998/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/prarthana1998/Leetcode/tree/master/0283-move-zeroes) |
+| [0347-top-k-frequent-elements](https://github.com/prarthana1998/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/prarthana1998/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1094-matrix-cells-in-distance-order](https://github.com/prarthana1998/Leetcode/tree/master/1094-matrix-cells-in-distance-order) |
 | [1939-queries-on-number-of-points-inside-a-circle](https://github.com/prarthana1998/Leetcode/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
@@ -28,6 +29,7 @@
 | [0217-contains-duplicate](https://github.com/prarthana1998/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/prarthana1998/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/prarthana1998/Leetcode/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/prarthana1998/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [2332-count-lattice-points-inside-a-circle](https://github.com/prarthana1998/Leetcode/tree/master/2332-count-lattice-points-inside-a-circle) |
 ## Union Find
 |  |
@@ -60,6 +62,7 @@
 | [0217-contains-duplicate](https://github.com/prarthana1998/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/prarthana1998/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/prarthana1998/Leetcode/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/prarthana1998/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/prarthana1998/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1094-matrix-cells-in-distance-order](https://github.com/prarthana1998/Leetcode/tree/master/1094-matrix-cells-in-distance-order) |
 ## Matrix
@@ -69,14 +72,17 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/prarthana1998/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/prarthana1998/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/prarthana1998/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/prarthana1998/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 ## Quickselect
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/prarthana1998/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/prarthana1998/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 ## Enumeration
 |  |
@@ -98,4 +104,12 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/prarthana1998/Leetcode/tree/master/0238-product-of-array-except-self) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/prarthana1998/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/prarthana1998/Leetcode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
