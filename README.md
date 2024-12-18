@@ -11,6 +11,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/prarthana1998/Leetcode/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/prarthana1998/Leetcode/tree/master/0036-valid-sudoku) |
 | [0128-longest-consecutive-sequence](https://github.com/prarthana1998/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/prarthana1998/Leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/prarthana1998/Leetcode/tree/master/0238-product-of-array-except-self) |
@@ -25,6 +26,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/prarthana1998/Leetcode/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/prarthana1998/Leetcode/tree/master/0036-valid-sudoku) |
 | [0128-longest-consecutive-sequence](https://github.com/prarthana1998/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/prarthana1998/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/prarthana1998/Leetcode/tree/master/0242-valid-anagram) |
@@ -68,6 +70,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/prarthana1998/Leetcode/tree/master/0036-valid-sudoku) |
 | [1094-matrix-cells-in-distance-order](https://github.com/prarthana1998/Leetcode/tree/master/1094-matrix-cells-in-distance-order) |
 ## Divide and Conquer
 |  |
