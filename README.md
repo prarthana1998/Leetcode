@@ -42,6 +42,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/prarthana1998/Leetcode/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/prarthana1998/Leetcode/tree/master/0283-move-zeroes) |
 ## Math
 |  |
@@ -106,6 +107,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/prarthana1998/Leetcode/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/prarthana1998/Leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/prarthana1998/Leetcode/tree/master/0242-valid-anagram) |
 ## Prefix Sum
 |  |
