@@ -32,6 +32,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/prarthana1998/Leetcode/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/prarthana1998/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/prarthana1998/Leetcode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/prarthana1998/Leetcode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/prarthana1998/Leetcode/tree/master/0128-longest-consecutive-sequence) |
@@ -117,6 +118,7 @@
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/prarthana1998/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/prarthana1998/Leetcode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/prarthana1998/Leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/prarthana1998/Leetcode/tree/master/0242-valid-anagram) |
@@ -143,5 +145,6 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/prarthana1998/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/prarthana1998/Leetcode/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
