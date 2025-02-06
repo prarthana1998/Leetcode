@@ -24,6 +24,7 @@
 | [0268-missing-number](https://github.com/prarthana1998/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/prarthana1998/Leetcode/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/prarthana1998/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0682-baseball-game](https://github.com/prarthana1998/Leetcode/tree/master/0682-baseball-game) |
 | [0940-fruit-into-baskets](https://github.com/prarthana1998/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [1014-k-closest-points-to-origin](https://github.com/prarthana1998/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1094-matrix-cells-in-distance-order](https://github.com/prarthana1998/Leetcode/tree/master/1094-matrix-cells-in-distance-order) |
@@ -157,4 +158,12 @@
 | [0424-longest-repeating-character-replacement](https://github.com/prarthana1998/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/prarthana1998/Leetcode/tree/master/0567-permutation-in-string) |
 | [0940-fruit-into-baskets](https://github.com/prarthana1998/Leetcode/tree/master/0940-fruit-into-baskets) |
+## Stack
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/prarthana1998/Leetcode/tree/master/0682-baseball-game) |
+## Simulation
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/prarthana1998/Leetcode/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
