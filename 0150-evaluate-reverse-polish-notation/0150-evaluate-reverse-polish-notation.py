@@ -17,4 +17,4 @@ class Solution:
                 stack.append(int(float(b/a)))
             else:
                 stack.append(int(nums))
-        return stack[0]
+        return stack[-1]
