@@ -128,6 +128,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/prarthana1998/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/prarthana1998/Leetcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/prarthana1998/Leetcode/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/prarthana1998/Leetcode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/prarthana1998/Leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/prarthana1998/Leetcode/tree/master/0242-valid-anagram) |
@@ -152,6 +153,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/prarthana1998/Leetcode/tree/master/0022-generate-parentheses) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/prarthana1998/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Sliding Window
 |  |
@@ -182,4 +184,8 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/prarthana1998/Leetcode/tree/master/0225-implement-stack-using-queues) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/prarthana1998/Leetcode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
