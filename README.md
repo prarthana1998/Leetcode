@@ -27,6 +27,7 @@
 | [0347-top-k-frequent-elements](https://github.com/prarthana1998/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0682-baseball-game](https://github.com/prarthana1998/Leetcode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/prarthana1998/Leetcode/tree/master/0739-daily-temperatures) |
+| [0792-binary-search](https://github.com/prarthana1998/Leetcode/tree/master/0792-binary-search) |
 | [0940-fruit-into-baskets](https://github.com/prarthana1998/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [1014-k-closest-points-to-origin](https://github.com/prarthana1998/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1094-matrix-cells-in-distance-order](https://github.com/prarthana1998/Leetcode/tree/master/1094-matrix-cells-in-distance-order) |
@@ -120,6 +121,7 @@
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/prarthana1998/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/prarthana1998/Leetcode/tree/master/0268-missing-number) |
+| [0792-binary-search](https://github.com/prarthana1998/Leetcode/tree/master/0792-binary-search) |
 ## Bit Manipulation
 |  |
 | ------- |
