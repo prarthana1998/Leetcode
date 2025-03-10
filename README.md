@@ -69,6 +69,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/prarthana1998/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/prarthana1998/Leetcode/tree/master/0009-palindrome-number) |
+| [0069-sqrtx](https://github.com/prarthana1998/Leetcode/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/prarthana1998/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/prarthana1998/Leetcode/tree/master/0268-missing-number) |
 | [1014-k-closest-points-to-origin](https://github.com/prarthana1998/Leetcode/tree/master/1014-k-closest-points-to-origin) |
@@ -121,6 +122,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/prarthana1998/Leetcode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/prarthana1998/Leetcode/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/prarthana1998/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/prarthana1998/Leetcode/tree/master/0268-missing-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/prarthana1998/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
