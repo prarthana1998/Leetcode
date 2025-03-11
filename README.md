@@ -16,6 +16,7 @@
 | [0035-search-insert-position](https://github.com/prarthana1998/Leetcode/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/prarthana1998/Leetcode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/prarthana1998/Leetcode/tree/master/0049-group-anagrams) |
+| [0074-search-a-2d-matrix](https://github.com/prarthana1998/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/prarthana1998/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/prarthana1998/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/prarthana1998/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -98,6 +99,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/prarthana1998/Leetcode/tree/master/0036-valid-sudoku) |
+| [0074-search-a-2d-matrix](https://github.com/prarthana1998/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [1094-matrix-cells-in-distance-order](https://github.com/prarthana1998/Leetcode/tree/master/1094-matrix-cells-in-distance-order) |
 ## Divide and Conquer
 |  |
@@ -123,6 +125,7 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/prarthana1998/Leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/prarthana1998/Leetcode/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/prarthana1998/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/prarthana1998/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/prarthana1998/Leetcode/tree/master/0268-missing-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/prarthana1998/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
