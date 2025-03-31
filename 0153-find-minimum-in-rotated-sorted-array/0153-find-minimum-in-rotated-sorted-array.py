@@ -15,15 +15,12 @@ class Solution:
                 high=mid
         return nums[low]
 
-        if nums[low] < nums[high]:  # Already sorted, return first element
-            return nums[low]
-
         while low < high:
             mid = (low + high) // 2
 
             if nums[mid] > nums[high]:  
-                low = mid + 1  # Minimum is in the right half
+                low = mid + 1  
             else:
-                high = mid  # Minimum could be at mid
+                high = mid  
 
-        return nums[low]  # 'low' will be at the minimum
+        return nums[low] 
