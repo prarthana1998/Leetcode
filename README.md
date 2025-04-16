@@ -28,6 +28,7 @@
 | [0238-product-of-array-except-self](https://github.com/prarthana1998/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/prarthana1998/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/prarthana1998/Leetcode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/prarthana1998/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/prarthana1998/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0682-baseball-game](https://github.com/prarthana1998/Leetcode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/prarthana1998/Leetcode/tree/master/0739-daily-temperatures) |
@@ -70,6 +71,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/prarthana1998/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/prarthana1998/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/prarthana1998/Leetcode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/prarthana1998/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0567-permutation-in-string](https://github.com/prarthana1998/Leetcode/tree/master/0567-permutation-in-string) |
 | [0908-middle-of-the-linked-list](https://github.com/prarthana1998/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 ## Math
@@ -137,12 +139,14 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/prarthana1998/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/prarthana1998/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/prarthana1998/Leetcode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/prarthana1998/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/prarthana1998/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0792-binary-search](https://github.com/prarthana1998/Leetcode/tree/master/0792-binary-search) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/prarthana1998/Leetcode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/prarthana1998/Leetcode/tree/master/0287-find-the-duplicate-number) |
 ## String
 |  |
 | ------- |
