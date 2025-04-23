@@ -46,6 +46,7 @@
 | [0036-valid-sudoku](https://github.com/prarthana1998/Leetcode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/prarthana1998/Leetcode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/prarthana1998/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0138-copy-list-with-random-pointer](https://github.com/prarthana1998/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/prarthana1998/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/prarthana1998/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0217-contains-duplicate](https://github.com/prarthana1998/Leetcode/tree/master/0217-contains-duplicate) |
@@ -229,6 +230,7 @@
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/prarthana1998/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/prarthana1998/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0138-copy-list-with-random-pointer](https://github.com/prarthana1998/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/prarthana1998/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/prarthana1998/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/prarthana1998/Leetcode/tree/master/0143-reorder-list) |
