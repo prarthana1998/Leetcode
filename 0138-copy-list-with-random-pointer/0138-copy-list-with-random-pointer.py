@@ -11,23 +11,20 @@ class Solution:
     def copyRandomList(self, head: 'Optional[Node]') -> 'Optional[Node]':
 
         oldToCopy = {None:None}
-
-        # first pass -> storing nodes in hasmap
         curr = head
-        while(curr):
+        while curr:
             copy = Node(curr.val)
             oldToCopy[curr] = copy
             curr = curr.next
 
-        # second pass -> actually copying
         curr = head
-        while(curr):
+
+        while curr:
             copy = oldToCopy[curr]
             copy.next = oldToCopy[curr.next]
             copy.random = oldToCopy[curr.random]
             curr = curr.next
         return oldToCopy[head]
-
         
 
             
