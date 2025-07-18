@@ -11,8 +11,10 @@ class Solution:
         if not root:
             return 0
         left = self.dfs(root.left)
+        if left == -1:
+            return -1
         right = self.dfs(root.right)
-        if left == -1 or right == -1:
+        if right == -1:
             return -1
         if abs(left-right)>1:
             return -1
