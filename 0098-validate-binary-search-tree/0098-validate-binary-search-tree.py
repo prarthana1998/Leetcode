@@ -9,8 +9,9 @@ class Solution:
         def validBST(node, left, right):
             if not node:
                 return True
-            if not (node.val>left and node.val<right):
+            if left < node.val <right:
+                return validBST(node.left, left, node.val) and validBST(node.right, node.val, right)
+            else:
                 return False
-            return validBST(node.left, left, node.val) and validBST(node.right, node.val, right)
 
         return validBST(root, float("-inf"), float("inf"))
