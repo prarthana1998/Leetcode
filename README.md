@@ -257,6 +257,7 @@
 | [0110-balanced-binary-tree](https://github.com/prarthana1998/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/prarthana1998/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/prarthana1998/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/prarthana1998/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/prarthana1998/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/prarthana1998/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/prarthana1998/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -270,6 +271,7 @@
 | [0110-balanced-binary-tree](https://github.com/prarthana1998/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/prarthana1998/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/prarthana1998/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/prarthana1998/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/prarthana1998/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/prarthana1998/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/prarthana1998/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -283,6 +285,7 @@
 | [0110-balanced-binary-tree](https://github.com/prarthana1998/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/prarthana1998/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/prarthana1998/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/prarthana1998/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/prarthana1998/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/prarthana1998/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/prarthana1998/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -305,4 +308,5 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/prarthana1998/Leetcode/tree/master/0098-validate-binary-search-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/prarthana1998/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 <!---LeetCode Topics End-->
