@@ -14,8 +14,8 @@ class Solution:
 
         number_dict = {}
         for i, num in enumerate(nums):
-            if target-nums[i] in number_dict:
-                return [number_dict[target-nums[i]], i]
-            number_dict[nums[i]] = i
+            if target-num in number_dict:
+                return [number_dict[target-num], i]
+            number_dict[num] = i
         return {}
  
