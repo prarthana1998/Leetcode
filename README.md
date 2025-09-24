@@ -60,6 +60,7 @@
 | [0567-permutation-in-string](https://github.com/prarthana1998/Leetcode/tree/master/0567-permutation-in-string) |
 | [0940-fruit-into-baskets](https://github.com/prarthana1998/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [2332-count-lattice-points-inside-a-circle](https://github.com/prarthana1998/Leetcode/tree/master/2332-count-lattice-points-inside-a-circle) |
+| [2427-first-letter-to-appear-twice](https://github.com/prarthana1998/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
 ## Union Find
 |  |
 | ------- |
@@ -153,6 +154,7 @@
 | ------- |
 | [0268-missing-number](https://github.com/prarthana1998/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/prarthana1998/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [2427-first-letter-to-appear-twice](https://github.com/prarthana1998/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
 ## String
 |  |
 | ------- |
@@ -166,6 +168,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/prarthana1998/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/prarthana1998/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/prarthana1998/Leetcode/tree/master/0567-permutation-in-string) |
+| [2427-first-letter-to-appear-twice](https://github.com/prarthana1998/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -180,6 +183,7 @@
 | [0347-top-k-frequent-elements](https://github.com/prarthana1998/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/prarthana1998/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/prarthana1998/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [2427-first-letter-to-appear-twice](https://github.com/prarthana1998/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
 ## Greedy
 |  |
 | ------- |
