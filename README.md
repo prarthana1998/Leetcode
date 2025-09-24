@@ -55,6 +55,7 @@
 | [0268-missing-number](https://github.com/prarthana1998/Leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/prarthana1998/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/prarthana1998/Leetcode/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/prarthana1998/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/prarthana1998/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/prarthana1998/Leetcode/tree/master/0567-permutation-in-string) |
 | [0940-fruit-into-baskets](https://github.com/prarthana1998/Leetcode/tree/master/0940-fruit-into-baskets) |
@@ -162,6 +163,7 @@
 | [0125-valid-palindrome](https://github.com/prarthana1998/Leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/prarthana1998/Leetcode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/prarthana1998/Leetcode/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/prarthana1998/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/prarthana1998/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/prarthana1998/Leetcode/tree/master/0567-permutation-in-string) |
 ## Prefix Sum
@@ -177,6 +179,7 @@
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/prarthana1998/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/prarthana1998/Leetcode/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/prarthana1998/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Greedy
 |  |
 | ------- |
@@ -219,6 +222,7 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/prarthana1998/Leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0387-first-unique-character-in-a-string](https://github.com/prarthana1998/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Backtracking
 |  |
 | ------- |
