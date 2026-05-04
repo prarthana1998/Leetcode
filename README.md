@@ -89,6 +89,7 @@
 | [0069-sqrtx](https://github.com/prarthana1998/Leetcode/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/prarthana1998/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/prarthana1998/Leetcode/tree/master/0268-missing-number) |
+| [0415-add-strings](https://github.com/prarthana1998/Leetcode/tree/master/0415-add-strings) |
 | [1014-k-closest-points-to-origin](https://github.com/prarthana1998/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1094-matrix-cells-in-distance-order](https://github.com/prarthana1998/Leetcode/tree/master/1094-matrix-cells-in-distance-order) |
 | [1939-queries-on-number-of-points-inside-a-circle](https://github.com/prarthana1998/Leetcode/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
@@ -166,6 +167,7 @@
 | [0242-valid-anagram](https://github.com/prarthana1998/Leetcode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/prarthana1998/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/prarthana1998/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0415-add-strings](https://github.com/prarthana1998/Leetcode/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/prarthana1998/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/prarthana1998/Leetcode/tree/master/0567-permutation-in-string) |
 | [2427-first-letter-to-appear-twice](https://github.com/prarthana1998/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
@@ -216,6 +218,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0415-add-strings](https://github.com/prarthana1998/Leetcode/tree/master/0415-add-strings) |
 | [0682-baseball-game](https://github.com/prarthana1998/Leetcode/tree/master/0682-baseball-game) |
 ## Design
 |  |
