@@ -173,6 +173,7 @@
 | [0415-add-strings](https://github.com/prarthana1998/Leetcode/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/prarthana1998/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/prarthana1998/Leetcode/tree/master/0567-permutation-in-string) |
+| [0678-valid-parenthesis-string](https://github.com/prarthana1998/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/prarthana1998/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [2427-first-letter-to-appear-twice](https://github.com/prarthana1998/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
 ## Prefix Sum
@@ -194,12 +195,14 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/prarthana1998/Leetcode/tree/master/0011-container-with-most-water) |
+| [0678-valid-parenthesis-string](https://github.com/prarthana1998/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/prarthana1998/Leetcode/tree/master/0680-valid-palindrome-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/prarthana1998/Leetcode/tree/master/0022-generate-parentheses) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/prarthana1998/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0678-valid-parenthesis-string](https://github.com/prarthana1998/Leetcode/tree/master/0678-valid-parenthesis-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -218,6 +221,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/prarthana1998/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/prarthana1998/Leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/prarthana1998/Leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0678-valid-parenthesis-string](https://github.com/prarthana1998/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/prarthana1998/Leetcode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/prarthana1998/Leetcode/tree/master/0739-daily-temperatures) |
 ## Simulation
