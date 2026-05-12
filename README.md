@@ -19,6 +19,7 @@
 | [0035-search-insert-position](https://github.com/prarthana1998/Leetcode/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/prarthana1998/Leetcode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/prarthana1998/Leetcode/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/prarthana1998/Leetcode/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/prarthana1998/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/prarthana1998/Leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/prarthana1998/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -130,6 +131,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/prarthana1998/Leetcode/tree/master/0053-maximum-subarray) |
 | [0347-top-k-frequent-elements](https://github.com/prarthana1998/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/prarthana1998/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 ## Heap (Priority Queue)
@@ -211,6 +213,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/prarthana1998/Leetcode/tree/master/0022-generate-parentheses) |
+| [0053-maximum-subarray](https://github.com/prarthana1998/Leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/prarthana1998/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0678-valid-parenthesis-string](https://github.com/prarthana1998/Leetcode/tree/master/0678-valid-parenthesis-string) |
 ## Sliding Window
