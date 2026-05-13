@@ -192,6 +192,7 @@
 | [0678-valid-parenthesis-string](https://github.com/prarthana1998/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/prarthana1998/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/prarthana1998/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/prarthana1998/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/prarthana1998/Leetcode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [2427-first-letter-to-appear-twice](https://github.com/prarthana1998/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
 ## Prefix Sum
@@ -247,6 +248,7 @@
 | [0682-baseball-game](https://github.com/prarthana1998/Leetcode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/prarthana1998/Leetcode/tree/master/0739-daily-temperatures) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/prarthana1998/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/prarthana1998/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/prarthana1998/Leetcode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 ## Simulation
 |  |
